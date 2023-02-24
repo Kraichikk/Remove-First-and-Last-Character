@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove First and Last Character", "Remove First and Last Character\Remove First and Last Character.csproj", "{D548DAEF-2A96-4D94-AE38-8D3F2EF60D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D548DAEF-2A96-4D94-AE38-8D3F2EF60D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D548DAEF-2A96-4D94-AE38-8D3F2EF60D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D548DAEF-2A96-4D94-AE38-8D3F2EF60D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D548DAEF-2A96-4D94-AE38-8D3F2EF60D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9044160-E43A-4265-8199-34656F247DFB}
+	EndGlobalSection
+EndGlobal
